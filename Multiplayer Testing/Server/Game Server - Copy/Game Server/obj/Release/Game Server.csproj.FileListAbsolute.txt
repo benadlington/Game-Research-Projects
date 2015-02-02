@@ -1,0 +1,7 @@
+\\ben-server\C\Users\Administrator\Documents\Visual Studio Projects\C#\Game Server\Game Server\bin\Release\Game Server.exe.config
+\\ben-server\C\Users\Administrator\Documents\Visual Studio Projects\C#\Game Server\Game Server\bin\Release\Game Server.exe
+\\ben-server\C\Users\Administrator\Documents\Visual Studio Projects\C#\Game Server\Game Server\bin\Release\Game Server.pdb
+\\ben-server\C\Users\Administrator\Documents\Visual Studio Projects\C#\Game Server\Game Server\bin\Release\Newtonsoft.Json.dll
+\\ben-server\C\Users\Administrator\Documents\Visual Studio Projects\C#\Game Server\Game Server\bin\Release\Newtonsoft.Json.xml
+\\ben-server\C\Users\Administrator\Documents\Visual Studio Projects\C#\Game Server\Game Server\obj\Release\Game Server.exe
+\\ben-server\C\Users\Administrator\Documents\Visual Studio Projects\C#\Game Server\Game Server\obj\Release\Game Server.pdb

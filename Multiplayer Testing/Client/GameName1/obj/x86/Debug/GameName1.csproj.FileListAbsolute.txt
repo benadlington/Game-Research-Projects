@@ -1,0 +1,25 @@
+\\ben-server\C\Users\Administrator\Documents\Visual Studio Projects\C#\GameName1\GameName1\bin\WindowsGL\Debug\SDL.dll
+\\ben-server\C\Users\Administrator\Documents\Visual Studio Projects\C#\GameName1\GameName1\bin\WindowsGL\Debug\GameName1.exe
+\\ben-server\C\Users\Administrator\Documents\Visual Studio Projects\C#\GameName1\GameName1\bin\WindowsGL\Debug\GameName1.pdb
+\\ben-server\C\Users\Administrator\Documents\Visual Studio Projects\C#\GameName1\GameName1\bin\WindowsGL\Debug\Lidgren.Network.dll
+\\ben-server\C\Users\Administrator\Documents\Visual Studio Projects\C#\GameName1\GameName1\bin\WindowsGL\Debug\MonoGame.Framework.dll
+\\ben-server\C\Users\Administrator\Documents\Visual Studio Projects\C#\GameName1\GameName1\bin\WindowsGL\Debug\OpenTK.dll
+\\ben-server\C\Users\Administrator\Documents\Visual Studio Projects\C#\GameName1\GameName1\obj\x86\Debug\GameName1.csprojResolveAssemblyReference.cache
+\\ben-server\C\Users\Administrator\Documents\Visual Studio Projects\C#\GameName1\GameName1\obj\x86\Debug\GameName1.exe
+\\ben-server\C\Users\Administrator\Documents\Visual Studio Projects\C#\GameName1\GameName1\obj\x86\Debug\GameName1.pdb
+C:\Users\benad_000\Desktop\GameName1\GameName1\obj\x86\Debug\GameName1.exe
+C:\Users\benad_000\Desktop\GameName1\GameName1\obj\x86\Debug\GameName1.pdb
+C:\Users\benad_000\Desktop\GameName1\GameName1\bin\WindowsGL\Debug\SDL.dll
+C:\Users\benad_000\Desktop\GameName1\GameName1\bin\WindowsGL\Debug\GameName1.exe
+C:\Users\benad_000\Desktop\GameName1\GameName1\bin\WindowsGL\Debug\GameName1.pdb
+C:\Users\benad_000\Desktop\GameName1\GameName1\bin\WindowsGL\Debug\Lidgren.Network.dll
+C:\Users\benad_000\Desktop\GameName1\GameName1\bin\WindowsGL\Debug\MonoGame.Framework.dll
+C:\Users\benad_000\Desktop\GameName1\GameName1\bin\WindowsGL\Debug\OpenTK.dll
+C:\Users\benad_000\Desktop\GameName1\GameName1\obj\x86\Debug\GameName1.csprojResolveAssemblyReference.cache
+C:\Users\benad_000\Desktop\GameName1\GameName1\bin\WindowsGL\Debug\Content\blue.png
+C:\Users\benad_000\Desktop\GameName1\GameName1\obj\x86\Debug\GameName1.Form1.resources
+C:\Users\benad_000\Desktop\GameName1\GameName1\obj\x86\Debug\GameName1.csproj.GenerateResource.Cache
+C:\Users\benad_000\Desktop\GameName1\GameName1\bin\WindowsGL\Debug\Newtonsoft.Json.dll
+C:\Users\benad_000\Desktop\GameName1\GameName1\bin\WindowsGL\Debug\Newtonsoft.Json.xml
+C:\Users\benad_000\Desktop\GameName1\GameName1\bin\WindowsGL\Debug\Tao.Sdl.dll
+C:\Users\benad_000\Desktop\GameName1\GameName1\bin\WindowsGL\Debug\MySql.Data.dll
